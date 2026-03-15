@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+streamlit-option-menu
+google-generativeai
+firebase-admin
+reportlab
+requests
+tensorflow-cpu
+pillow
+numpy
